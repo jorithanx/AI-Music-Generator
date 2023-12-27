@@ -9,3 +9,5 @@ export type NewWebhookEvent =
   Prisma.LemonSqueezyWebhookEventUncheckedCreateInput;
 export type NewSubscription =
   Prisma.LemonSqueezySubscriptionUncheckedCreateInput;
+
+// hobby-session-10
