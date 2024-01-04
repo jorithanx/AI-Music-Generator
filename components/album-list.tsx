@@ -145,3 +145,5 @@ const AlbumList = ({ musics, showNumber = true }: Props) => {
 };
 
 export default AlbumList;
+
+// hobby-session-14
