@@ -70,3 +70,5 @@ const PayButton = ({ embed = true, plan, subscription, ...props }: Props) => {
 };
 
 export default PayButton;
+
+// hobby-session-27
