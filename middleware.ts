@@ -18,3 +18,5 @@ export default clerkMiddleware((auth, req) => {
 export const config = {
   matcher: ["/((?!.+.[w]+$|_next).*)", "/", "/(api|trpc)(.*)"],
 };
+
+// hobby-session-28
