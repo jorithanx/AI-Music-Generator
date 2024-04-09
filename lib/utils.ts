@@ -92,3 +92,5 @@ export function formatPrice(priceInCents: string) {
 export function isValidSubscription(status: SubscriptionStatusType) {
   return status !== "cancelled" && status !== "expired" && status !== "unpaid";
 }
+
+// hobby-session-30
