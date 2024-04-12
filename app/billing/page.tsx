@@ -23,3 +23,5 @@ const Page = async () => {
 export default Page;
 
 // hobby-session-25
+
+// hobby-session-31
