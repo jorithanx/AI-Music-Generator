@@ -10,3 +10,5 @@ export type SidebarLink = {
   href: string;
   icon: LucideIcon;
 };
+
+// hobby-session-55
