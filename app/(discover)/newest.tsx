@@ -31,3 +31,5 @@ const Newest = async () => {
 };
 
 export default Newest;
+
+// hobby-session-52
