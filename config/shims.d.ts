@@ -39,3 +39,5 @@ interface Window {
     };
   };
 }
+
+// hobby-session-56
