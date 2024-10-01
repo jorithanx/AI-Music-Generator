@@ -33,3 +33,5 @@ const Footer = () => {
 };
 
 export default Footer;
+
+// hobby-session-57
