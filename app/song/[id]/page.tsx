@@ -102,3 +102,5 @@ const Page = async ({ params: { id } }: { params: { id: string } }) => {
 };
 
 export default Page;
+
+// hobby-session-59
