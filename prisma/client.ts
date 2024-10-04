@@ -11,3 +11,5 @@ export type NewSubscription =
   Prisma.LemonSqueezySubscriptionUncheckedCreateInput;
 
 // hobby-session-10
+
+// hobby-session-60
