@@ -46,3 +46,5 @@ const Sidebar = ({ className, onNavClick }: Props) => {
 };
 
 export default Sidebar;
+
+// hobby-session-71
