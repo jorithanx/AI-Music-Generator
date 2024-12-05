@@ -41,3 +41,5 @@ export function webhookHasData(obj: unknown): obj is {
     "attributes" in obj.data
   );
 }
+
+// hobby-session-75
