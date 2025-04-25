@@ -13,3 +13,5 @@ const Page = async () => {
 };
 
 export default Page;
+
+// hobby-session-106
