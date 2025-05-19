@@ -27,3 +27,5 @@ export function configLemonsqueezy() {
 
 export type SubscriptionStatusType =
   Subscription["data"]["attributes"]["status"];
+
+// hobby-session-115
