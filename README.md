@@ -76,3 +76,6 @@ We have deployed an example website on Vercel, so you can see how it runs: [ai-s
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Prisma](https://www.prisma.io/orm)
 - [suno-api](https://github.com/gcui-art/suno-api)
+
+
+<!-- hobby-session-119 -->
